@@ -1,7 +1,7 @@
 [voat-android](https://github.com/voat/voat-android)
 =========
 
-Official voat Android app repository
+Fork of the Official voat Android app repository
 
 ![screenshot](https://github.com/voat/voat-android/raw/master/screenshots/screenshot-1.png)
 
